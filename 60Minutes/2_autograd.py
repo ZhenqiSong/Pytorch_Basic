@@ -34,3 +34,10 @@ print(y)
 v = torch.tensor([0.1, 1.0, 0.0001], dtype=torch.float)
 y.backward(v)
 print(x.grad)
+
+print(x.requires_grad)
+print((x**2).requires_grad)
+
+with torch.no_grad():
+    print((x**2).requires_grad)
+    
