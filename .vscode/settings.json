@@ -1,6 +1,7 @@
 {
-    "python.pythonPath": "/home/szq/anaconda3/envs/paddle/bin/python",
+    "python.pythonPath": "/Users/zhenqisong/opt/anaconda3/envs/torch/bin/python",
     "python.linting.pylintEnabled": false,
     "python.linting.pycodestyleEnabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "python.dataScience.jupyterServerURI": "http://127.0.0.1:8080/?token=cabad59f26a34d35de2795165317f3ee7002bfc15db494d1"
 }
