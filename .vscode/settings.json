@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "d:\\ProgramData\\Anaconda3\\python.exe",
+    "python.pythonPath": "/home/szq/anaconda3/envs/paddle/bin/python",
     "python.linting.pylintEnabled": false,
     "python.linting.pycodestyleEnabled": true,
     "python.linting.enabled": true
